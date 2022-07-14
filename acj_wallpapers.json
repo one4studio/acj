@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wallpaper 1",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper1.png",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper1.png",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 2",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper10.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper10.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 3",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper2.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper2.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 4",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper3.png",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper3.png",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 5",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper4.png",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper4.png",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 6",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper5.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper5.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 7",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper6.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper6.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 8",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper7.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper7.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 9",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper8.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper8.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 10",
+    "author": "Unsplash",
+    "url": "https://raw.githubusercontent.com/one4studio/acj/main/wallpaper9.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/acj/main/thumbnails/thumb_wallpaper9.jpg",
+    "downloadable": true
+  }
+]
